@@ -1,3 +1,5 @@
+<img src="Spacy_screensot.jpg">
+
 # Named Entity Recognition With Spacy Package
 
 In my previous post https://opokualbert.com/post.html#ner, I showed how you can get the entities in an article or any text documents using Natural language processing NER Package by Stanford NLP.  In this post I will share how to do this in a few lines of code in Spacy and compare the results from the two packages.
